@@ -1,22 +1,16 @@
 # MH-TODAY-MAHAMUD
 ENJOY:)🐰🖤
 
-pkg update
+pkg i git
 
-pkg upgrade
+pkg i python
 
-pkg install python
-
-pip install requests
-
-pip install mechanize
-
-pip install bs4
-
-pkg install git
+rm -rf $home/MAHAMUD-TODAY
 
 git clone https://github.com/mahamudking/MH-TODAY-MAHAMUD.git
 
 cd MH-TODAY-MAHAMUD
 
-python MH-TODAY-MAHAMUD.py
+chmod +x *
+
+python MAHAMUD-TODAY.py
